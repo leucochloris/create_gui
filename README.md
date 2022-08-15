@@ -1,4 +1,4 @@
-# My first GUI project.
+# One of my first GUI project.
 
 ### I used framework PyQt5 (not library, there is also the Tkinter library), just was interesting to try it.
 ---
